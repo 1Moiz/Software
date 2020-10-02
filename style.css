@@ -1,0 +1,25 @@
+.description {
+    position: absolute;
+    top: 65%;
+    left: 51%;
+    transform: translate(-10%, -70%);
+}
+
+.title {
+    text-decoration: underline;
+    color: orange
+}
+
+.descriptions {
+    position: absolute;
+    text-align: right;
+    position: absolute;
+    top: 75%;
+    left: 51%;
+    transform: translate(-110%, -70%);
+}
+
+#image {
+    position: relative;
+    left: 600px;
+}
